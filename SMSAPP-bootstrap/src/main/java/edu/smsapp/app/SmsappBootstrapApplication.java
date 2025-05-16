@@ -12,7 +12,7 @@ public class SmsappBootstrapApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SmsappBootstrapApplication.class, args);
-		System.out.println("");
+		System.out.println("testing forking");
 	}
 
 }
